@@ -1,6 +1,7 @@
 ringtail-deploy-client
 ======================
 [![Build Status](https://travis-ci.org/fti-technology/ringtail-deploy-client.svg?branch=master)](https://travis-ci.org/fti-technology/ringtail-deploy-client)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffti-technology%2Fringtail-deploy-client.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffti-technology%2Fringtail-deploy-client?ref=badge_shield)
 
 Node.js client for interracting with the Ringtail Deploy Service.
 
@@ -106,3 +107,7 @@ Please use JSHint via the grunt task `grunt validate`.
 
 Please add proper unit test coverage in accordance with existing test patterns (API methods do not yet have test coverage or parameter validation).
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffti-technology%2Fringtail-deploy-client.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffti-technology%2Fringtail-deploy-client?ref=badge_large)
